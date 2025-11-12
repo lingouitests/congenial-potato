@@ -49,6 +49,11 @@
   "nodeID":"node_id.123:4",
   "lastChanged":1762382348
 },{
+  "key":"beta_1",
+  "value":"beta",
+  "nodeID":"node_id.206:15",
+  "lastChanged":1762909783
+},{
   "key":"sunday_1",
   "value":"sunday",
   "nodeID":"node_id.144:2",
